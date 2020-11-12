@@ -1,0 +1,11 @@
+//*****
+INSTRUCTIONS: 
+
+1. replace the variable values
+2. rename this file as ".env"
+3. delete these instructions finally
+
+***//
+MONGO_URL=<your mongodb url goes here>
+SECRET=<a long string>
+PORT=8000
