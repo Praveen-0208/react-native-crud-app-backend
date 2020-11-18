@@ -31,8 +31,6 @@ const userRoutes = require("./routes/user");
 
 const port = process.env.PORT || 8000;
 
-const host = "192.168.43.107";
-
 app.get("/", (req, res) => {
 	res.send("it works...");
 });
